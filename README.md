@@ -12,7 +12,6 @@ I'm Youngju Cho
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-A0522D?style=flat-square&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-003A55?style=flat-square&logo=mybatis&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-DDA0DD?style=flat-square&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 ### Frontend
